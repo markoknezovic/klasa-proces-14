@@ -1,0 +1,10 @@
+C:\Users\Učenik07\source\repos\klasaproces_14\klasaproces_14\bin\Debug\klasaproces_14.exe.config
+C:\Users\Učenik07\source\repos\klasaproces_14\klasaproces_14\bin\Debug\klasaproces_14.exe
+C:\Users\Učenik07\source\repos\klasaproces_14\klasaproces_14\bin\Debug\klasaproces_14.pdb
+C:\Users\Učenik07\source\repos\klasaproces_14\klasaproces_14\obj\Debug\klasaproces_14.csprojAssemblyReference.cache
+C:\Users\Učenik07\source\repos\klasaproces_14\klasaproces_14\obj\Debug\klasaproces_14.Form1.resources
+C:\Users\Učenik07\source\repos\klasaproces_14\klasaproces_14\obj\Debug\klasaproces_14.Properties.Resources.resources
+C:\Users\Učenik07\source\repos\klasaproces_14\klasaproces_14\obj\Debug\klasaproces_14.csproj.GenerateResource.cache
+C:\Users\Učenik07\source\repos\klasaproces_14\klasaproces_14\obj\Debug\klasaproces_14.csproj.CoreCompileInputs.cache
+C:\Users\Učenik07\source\repos\klasaproces_14\klasaproces_14\obj\Debug\klasaproces_14.exe
+C:\Users\Učenik07\source\repos\klasaproces_14\klasaproces_14\obj\Debug\klasaproces_14.pdb
